@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SalaheddineS
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning C++
-- My website : https://salaheddine.netlify.app/#
+- 👀 Senior DevOps Engineer Wannabe
+- 🌱 Currently Expanding my Knowledge on CI/CD 
 - 📫 How to reach me :
 - Salaheddinemorchid1@gmail.com
 
