@@ -1,4 +1,5 @@
 Welcome to my GitHub Profile!
+
 👋 Hi, I'm SalaheddineS. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions. I'm passionate about technology and aspire to become a Solution Architect.
 
 About Me
