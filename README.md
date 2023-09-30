@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a cloud native,fully automated K8S following the industry best practices**
 
-- 🌱 I’m currently learning **System design/Architecture**
+- 🌱 Currently learning **System design/Architecture**
 
-- 👯 I’m available to collaborate **on any interesting open source project**
+- 👯 Available to collaborate **on any interesting open source project**
 
 - 💬 Fell free to ask me about **any devOps / webdev subject**
 
-- 📫 How to reach me **Salaheddinemorchid1@gmail.com**
+- 📫 How to reach me : **Salaheddinemorchid1@gmail.com**
 
 - ⚡ Hot take : **Java isn't a bad language, it's only old :p**
 
