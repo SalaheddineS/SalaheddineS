@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Morchid Salaheddine</h1>
 <h3 align="center">A DevOps Engineer from Morocco</h3>
-<img src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" alt="Morchid Salaheddine GIF" style="display: block; margin: 0 auto;">
+<img align="center" src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" alt="Morchid Salaheddine GIF" style="display: block; margin: 0 auto;">
 - 🔭 I’m currently working on **a cloud native,fully automated K8S following the industry best practices**
 
 - 🌱 Currently learning **System design/Architecture**
