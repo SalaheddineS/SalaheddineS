@@ -6,7 +6,7 @@
   <img src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" alt="Morchid Salaheddine GIF">
 </div>
 
-- 🔭 I’m currently working on **a cloud native,fully automated K8S following the industry best practices**
+- 🔭 I’m currently working on **a cloud native,fully automated K8S Utility Application following the industry best practices**
 
 - 🌱 Currently learning **System design/Architecture**
 
