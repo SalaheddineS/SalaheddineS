@@ -6,17 +6,17 @@
   <img src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" alt="Morchid Salaheddine GIF">
 </div>
 
-- 🔭 I’m currently working on ** Undisclosed **
+- 🔭 I’m currently working on **Undisclosed**
 
-- 🌱 Currently learning ** Keda/Knative **
+- 🌱 Currently learning **Keda/Knative**
 
-- 👯 Available to collaborate ** Currently unavailable **
+- 👯 Available to collaborate **Currently unavailable**
 
 - 💬 Fell free to ask me about **Any DevOps / SWE subject**
 
 - 📫 How to reach me : **Salaheddinemorchid1@gmail.com**
 
-- ⚡ Hot take : ** You don't need a k8s cluster with 1456 micro services for that static web site :) **
+- ⚡ Hot take : **You don't need a k8s cluster with 1456 micro services for that static web site :)**
 
 
 
