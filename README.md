@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **Salaheddinemorchid1@gmail.com**
 
-- ⚡ Hot take : **You don't need a k8s cluster with 1456 micro services for that static web site :)**
+- ⚡ Hot take : **You don't need a k8s cluster with 1456 micro services for that local e-commerce website :)**
 
 
 
